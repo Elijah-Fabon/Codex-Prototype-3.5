@@ -1,0 +1,4 @@
+repository "Codex Prototype 3.5/Codex Prototype 3.5@3573918589287@cloud"
+  path "/"
+    br "/main"
+    co "/main"
